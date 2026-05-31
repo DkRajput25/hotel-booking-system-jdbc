@@ -160,21 +160,8 @@ This project helped in understanding:
 
 ---
 
-## Future Improvements
-
-- GUI using Java Swing
-- JavaFX Integration
-- Room Availability Checking
-- Admin Authentication
-- Online Booking Support
-- Payment Gateway Integration
-- PreparedStatement for Security
-- Logging System
-
----
 
 ## Author
 
 Dikshant Chauhan
 
-MCA Student | Java Developer
